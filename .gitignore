@@ -9,6 +9,4 @@ out
 gen
 .idea/
 BatchChangeFileName.iml
-lib/
 out/
-src/
